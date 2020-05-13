@@ -90,13 +90,7 @@ Quarterly.txt
 .vagrant
 
 # yarn
-#components/*
-#!components/package.json
-#dojo/static/*
-#!dojo/static/dojo/*
-#dojo/media
-#/static
-#/media
+
 
 # virtualenv
 .venv/
